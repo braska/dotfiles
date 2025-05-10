@@ -1,0 +1,11 @@
+{
+  "modules-right": [
+    "idle_inhibitor",
+    "pulseaudio",
+    "hyprland/language",
+    "clock#date",
+    "clock",
+    "tray",
+    "custom/power",
+  ],
+}
