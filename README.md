@@ -2,11 +2,20 @@
 
 This repo organized around [GNU Stow](https://www.gnu.org/software/stow/).
 
-Usage:
+## Usage examples
+On Linux laptop:
 ```sh
-stow base
-# stow macos
-# ...etc
+stow base hyprland-with-uwsm linux-laptop
+```
+
+On Linux desktop:
+```sh
+stow base hyprland-with-uwsm linux-desktop
+```
+
+On MacOS:
+```sh
+stow base macos
 ```
 
 ## TODO
